@@ -71,3 +71,9 @@ export default defineConfig([
   },
 ])
 ```
+
+## Deploy
+
+This repo is configured to auto-deploy to GitHub Pages on every push to `main`.
+
+- Expected URL: `https://pavlovman.github.io/personalstylist_studio/`
